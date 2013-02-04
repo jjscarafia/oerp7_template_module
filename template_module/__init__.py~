@@ -21,23 +21,6 @@
 ##############################################################################
 
 
-{   'active': False,
-    'author': 'No author.',
-    'category': 'base.module_category_hidden',
-    'demo_xml': [],
-    'depends': ['base'],
-    'description': 'Descripción del Modulo template de ejemplo',
-    'init_xml': [],
-    'installable': True,
-    'license': 'AGPL-3',
-    'name': 'Modulo template de ejemplo',
-    'test': [],
-    'update_xml': [   'security/ejemplo_group.xml',
-                      'view/ejemplo_view.xml',
-                      'view/ejemplo_menuitem.xml',
-                      'workflow/ejemplo_workflow.xml',
-                      'security/ir.model.access.csv'],
-    'version': 'No version',
-    'website': ''}
+#import ejemplo
 
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:

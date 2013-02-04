@@ -24,7 +24,7 @@
 <openerp>
     <data>
 
-<!-- EKEMPLO DEFINICION VISTA -->
+<!-- EKEMPLO DEFINICION VISTA
         <!-- SEARCHVIEW -->
 <!--
         <record id="view_sagi_sagi_filter" model="ir.ui.view">

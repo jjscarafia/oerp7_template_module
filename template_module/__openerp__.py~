@@ -32,11 +32,7 @@
     'license': 'AGPL-3',
     'name': 'Modulo template de ejemplo',
     'test': [],
-    'update_xml': [   'security/ejemplo_group.xml',
-                      'view/ejemplo_view.xml',
-                      'view/ejemplo_menuitem.xml',
-                      'workflow/ejemplo_workflow.xml',
-                      'security/ir.model.access.csv'],
+    'update_xml': [],
     'version': 'No version',
     'website': ''}
 
