@@ -26,7 +26,7 @@
     'category': 'base.module_category_hidden',
     'demo_xml': [],
     'depends': ['base'],
-    'description': 'Descripción del Modulo template de ejemplo',
+    'description': 'Competitiveness Management Modificacions',
     'init_xml': [],
     'installable': True,
     'license': 'AGPL-3',
