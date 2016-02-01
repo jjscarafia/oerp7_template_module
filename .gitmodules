@@ -1,0 +1,3 @@
+[submodule "aeroo_reports"]
+	path = aeroo_reports
+	url = git@github.com:jjscarafia/aeroo_reports.git
